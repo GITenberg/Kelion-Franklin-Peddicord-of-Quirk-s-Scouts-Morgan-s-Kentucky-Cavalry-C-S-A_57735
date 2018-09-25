@@ -1,11 +1,16 @@
 _repo: Kelion-Franklin-Peddicord-of-Quirk-s-Scouts-Morgan-s-Kentucky-Cavalry-C-S-A_57735
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57735-h/images/cover.jpg
 creator:
   author:
     agent_name: Logan, Mrs. India W. P.
     gutenberg_agent_id: '49570'
     url: http://www.gutenberg.org/2009/agents/49570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57735#Kelion-Franklin-Peddicord-of-Quirk-s-Scouts-Morgan-s-Kentucky-Cavalry-C-S-A
 gutenberg_issued: '2018-08-21'
 gutenberg_type: Text
 identifiers:
